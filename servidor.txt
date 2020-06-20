@@ -1,0 +1,11 @@
+1. Instalar o NodeJS;
+2. npm init -y (-y significa padrão);
+3. npm install express (lib/framework para lidar com rotas);
+4. Criação do src (server.ts);
+5. npm install express;
+6. npm install @types/express -D;
+7. npm install ts-node -D;
+8. npm install typescript -D;
+9. npx tsc --init
+10. npx ts-node src/server.ts;
+11. npm install ts-node-dev -D;
